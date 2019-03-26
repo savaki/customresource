@@ -1,0 +1,11 @@
+# ignore intellij files
+#
+.idea
+*.iml
+*.ipr
+*.iws
+
+# ignore generated files
+#
+go.sum
+
